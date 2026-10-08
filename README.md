@@ -2,6 +2,8 @@
 
 A Claude Code mod that draws the ```mermaid blocks of Claude's replies as images in the terminal, and opens them in Excalidraw.
 
+![A flowchart drawn as an image in a Claude Code reply, with the Open in Excalidraw button under it](docs/screenshot.png)
+
 ## Install
 
 ```bash
