@@ -1,0 +1,8 @@
+{
+  "name": "mermaid-render",
+  "owner": { "name": "maxp-riot" },
+  "metadata": {
+    "description": "Mermaid diagrams drawn as images in Claude Code's terminal, with an Excalidraw export"
+  },
+  "plugins": [{ "name": "mermaid-render", "source": "./" }]
+}

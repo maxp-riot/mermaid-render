@@ -1,0 +1,14 @@
+{
+  "name": "mermaid-render",
+  "version": "0.5.0",
+  "description": "Draws the ```mermaid blocks of Claude's replies as images in the terminal, in light or dark, and opens them in Excalidraw",
+  "author": {
+    "name": "maxp-riot"
+  },
+  "keywords": [
+    "mermaid",
+    "diagrams",
+    "excalidraw",
+    "mod"
+  ]
+}
